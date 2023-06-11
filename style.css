@@ -1,0 +1,20 @@
+/* CSS Reset */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Navbar */
+.navbar{
+
+    display: flex;
+}
+.nav-list{
+    width: 50%;
+}
+.nav-list li{
+    
+}
+.nav-list li a{
+    
+}
+/* ---------------------------------------------------------------------------------------------------------- */
